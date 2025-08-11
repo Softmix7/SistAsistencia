@@ -1,0 +1,4 @@
+[14-Jul-2023 17:21:10 America/Lima] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'maticsab_qr22'@'localhost' (using password: YES) in /home/maticsab/asistencia2022.maticsaber.com/intranet/config/Conexion.php on line 5
+[14-Jul-2023 17:21:10 America/Lima] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/maticsab/asistencia2022.maticsaber.com/intranet/config/Conexion.php on line 7
+[14-Jul-2023 17:21:19 America/Lima] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'maticsab_qr22'@'localhost' (using password: YES) in /home/maticsab/asistencia2022.maticsaber.com/intranet/config/Conexion.php on line 5
+[14-Jul-2023 17:21:19 America/Lima] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/maticsab/asistencia2022.maticsaber.com/intranet/config/Conexion.php on line 7
