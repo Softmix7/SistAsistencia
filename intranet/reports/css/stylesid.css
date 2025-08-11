@@ -1,0 +1,42 @@
+
+html{
+	margin:0cm;
+	
+}
+
+
+@font-face{
+	font-family: sqr721bc;
+	src:url(../../resource/assets/fonts/sqr721bc.ttf);
+}
+
+
+@font-face{
+	font-family: SQR721C;
+	src:url(../../resource/assets/fonts/SQR721C.ttf);
+}
+
+
+@font-face{
+	font-family: Arial;
+	font-style: normal;
+	src:url(../../resource/assets/fonts/arial.ttf);
+}
+
+
+body{
+	margin-left: 15mm;
+	margin-right: 15mm;
+	margin-top: 10mm;
+	margin-bottom: 15mm;
+	font-family: Arial, sans-serif;
+}
+
+.divbodyright {
+      height:82mm;
+      width:50mm;
+      position: absolute;
+}
+
+
+

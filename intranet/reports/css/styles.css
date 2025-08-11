@@ -1,0 +1,52 @@
+
+html{
+	margin:0cm;
+	
+}
+
+
+@font-face{
+	font-family: sqr721bc;
+	src:url(../../resource/assets/fonts/sqr721bc.ttf);
+}
+
+
+@font-face{
+	font-family: SQR721C;
+	src:url(../../resource/assets/fonts/SQR721C.ttf);
+}
+
+
+@font-face{
+	font-family: Arial;
+	font-style: normal;
+	src:url(../../resource/assets/fonts/arial.ttf);
+}
+
+
+body{
+	margin-left: 20mm;
+	margin-right: 30mm;
+	margin-top: 15mm;
+	margin-bottom: 20mm;
+	font-family: Arial, sans-serif;
+
+}
+
+
+
+.line_carnet {
+	border: 2px #FFFFFF solid;
+
+ }
+
+table td{
+	padding: 0px;
+
+}
+
+
+.divfloat{
+	float: left;
+}
+
